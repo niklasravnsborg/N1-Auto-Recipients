@@ -1,0 +1,19 @@
+{
+  "name": "auto-recipients",
+  "title": "Auto Recipients",
+  "description": "Automatically add Cc and Bcc recipients to your mails.",
+  "version": "0.1.0",
+  "license": "MIT",
+  "main": "./lib/main",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/niklasravnsborg/N1-Auto-Recipients"
+  },
+  "engines": {
+    "nylas": ">=0.4"
+  },
+  "windowTypes": {
+    "default": true,
+    "composer": true
+  }
+}
